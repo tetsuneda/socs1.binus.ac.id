@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "type_traits": "c",
+        "cstdbool": "cpp"
+    }
+}
