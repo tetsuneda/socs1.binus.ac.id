@@ -39,8 +39,6 @@ int main() {
         if (arr[i] > max)
             max = arr[i];
     }
-        
-
     printf ("%lld\n", leastGreater(arr, 0, max, a, b));
 
     return 0;
