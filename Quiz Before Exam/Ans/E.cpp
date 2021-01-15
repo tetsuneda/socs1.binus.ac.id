@@ -4,24 +4,24 @@ long long leastGreater(long long* arr, long long low, long long high, int count,
     long long ans = -1;
     while (low <= high)
     {
-        long long mid = low + (high - low) / 2;
-        long long midVal = 0;
+        long long h = low + (high - low) / 2;
+        long long sum = 0;
 
         for (int i = 0; i < count; i++)
         {
-            long long temp = arr[i] - mid;
+            long long temp = arr[i] - h;
             if (temp <= 0)
                 temp = 0;
-            midVal += temp;
+            sum += temp;
         }
 
-        if (midVal < key)
-            high = mid - 1;
+        if (sum < key)
+            high = h - 1;
 
-        else if (midVal >= key)
+        else if (sum >= key)
         {
-            ans = mid;
-            low = mid + 1;
+            ans = h;
+            low = h + 1;
         }
 
     }
@@ -30,16 +30,16 @@ long long leastGreater(long long* arr, long long low, long long high, int count,
 
 int main() {
 
-    long long a, b;
-    scanf ("%lld %lld", &a, &b);
-    long long arr[a], max = 0;
-    for (long long i = 0; i < a; i++)
+    long long n, x;
+    scanf ("%lld %lld", &n, &x);
+    long long arr[n], max = 0;
+    for (long long i = 0; i < n; i++)
     {
         scanf ("%lld", &arr[i]);
         if (arr[i] > max)
             max = arr[i];
     }
-    printf ("%lld\n", leastGreater(arr, 0, max, a, b));
+    printf ("%lld\n", leastGreater(arr, 0, max, n, x));
 
     return 0;
 }
