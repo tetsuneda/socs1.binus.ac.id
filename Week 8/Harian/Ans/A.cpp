@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//using iteration
 int fib(int num) {
     int x = 3, y = 2, z = 0;
     for (int i = 0; i < num; i++)
