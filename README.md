@@ -23,6 +23,7 @@ Directories :
       • Congratulation  
       • Special Numbers  
       • Zero  
+      
     Weekly :  
       • Container  
       • Counting Clocks  
@@ -37,6 +38,7 @@ Directories :
       • Saving  
       • Shopping  
       • Switch  
+      
     Weekly :  
       • 4th Grade  
       • Climbing Stairs  
@@ -51,6 +53,7 @@ Directories :
       • Divisibility  
       • ElevenSeven  
       • Square  
+      
     Weekly :  
       • Jellyfish Dance  
       • Maximum  
@@ -65,6 +68,7 @@ Directories :
       • Museum Heist  
       • Night Game  
       • Restoring The Array  
+      
     Weekly :  
       • 2nus Internship  
       • Another Classic Problem  
@@ -90,6 +94,7 @@ Directories :
       • Jojo's Equation  
       • JoQuence  
       • Snowflakes  
+      
     Weekly :  
       • Ackermann Function  
       • Digits Permutation  
@@ -104,6 +109,7 @@ Directories :
       • Epic Game  
       • Fibo String  
       • Sum Difference  
+      
     Weekly :  
       • Desperate Horse  
       • Evening Walk  
@@ -118,6 +124,7 @@ Directories :
       • School Database  
       • Student Data  
       • Student Database  
+      
     Weekly :  
       • Bookshelf  
       • Data Hacking  
@@ -132,6 +139,7 @@ Directories :
       • Corrupted CSV  
       • Party  
       • Planting Tree  
+      
     Weekly :  
       • Alphabet Converter  
       • Bad Prank  
@@ -146,6 +154,7 @@ Directories :
       • Scoreboard  
       • Temperature  
       • Welcome to Your Tape  
+      
     Weekly :  
       • I Love Statistic!  
       • Number Conversion  
