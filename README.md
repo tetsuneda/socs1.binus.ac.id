@@ -4,12 +4,12 @@ Don't use it for cheating!!!
 I'm not responsible if you dropped out :>  
   
 Directories :  
-- Week 1 :
+- Week 1 :  
       • Add two numbers  
       • Hello, World!  
       • Late Night Counting  
   
-- Week 2 :
+- Week 2 :  
       • ASCII Code  
       • Happy Birthday!  
       • Hex, Hex, and Hex!  
@@ -18,7 +18,7 @@ Directories :
       • Reversing Problem  
   
 - Week 3 :  
-    Daily :
+    Daily :  
       • Birthday  
       • Congratulation  
       • Special Numbers  
