@@ -5,195 +5,195 @@ I'm not responsible if you dropped out :>
   
 Directories :  
 - Week 1 :  
-      • Add two numbers  
-      • Hello, World!  
-      • Late Night Counting  
+      • Add two numbers (Prob B)  
+      • Hello, World! (Prob A)  
+      • Late Night Counting (Prob C)  
   
 - Week 2 :  
-      • ASCII Code  
-      • Happy Birthday!  
-      • Hex, Hex, and Hex!  
-      • Matrix Rotation  
-      • Print The Code  
-      • Reversing Problem  
+      • ASCII Code (Prob E)  
+      • Happy Birthday! (Prob A)  
+      • Hex, Hex, and Hex! (Prob B)  
+      • Matrix Rotation (Prob F)  
+      • Print The Code (Prob C)  
+      • Reversing Problem (Prob D)  
   
 - Week 3 :  
     Daily :  
-      • Birthday  
-      • Congratulation  
-      • Special Numbers  
-      • Zero  
+      • Birthday (Prob B)  
+      • Congratulation (Prob A)  
+      • Special Numbers (Prob C)  
+      • Zero (Prob D)  
       
     Weekly :  
-      • Container  
-      • Counting Clocks  
-      • Gift Wrap  
-      • Magic Square  
-      • Math Homeworks  
-      • Present From Lili  
+      • Container (Prob E)  
+      • Counting Clocks (Prob C)  
+      • Gift Wrap (Prob F)  
+      • Magic Square (Prob D)  
+      • Math Homeworks (Prob A)  
+      • Present From Lili (Prob B)  
 
 - Week 4 :  
     Daily :  
-      • Blackout  
-      • Saving  
-      • Shopping  
-      • Switch  
+      • Blackout (Prob D)  
+      • Saving (Prob B)  
+      • Shopping (Prob A)  
+      • Switch (Prob C)  
       
     Weekly :  
-      • 4th Grade  
-      • Climbing Stairs  
-      • Magical Cave  
-      • Not Equal  
-      • Odd-Even Sum  
-      • Three Patterns  
+      • 4th Grade (Prob F)  
+      • Climbing Stairs (Prob C)  
+      • Magical Cave (Prob E)  
+      • Not Equal (Prob A)  
+      • Odd-Even Sum (Prob D)  
+      • Three Patterns (Prob B)  
 
 - Week 5 :  
     Daily :  
-      • Alphabetical Order  
-      • Divisibility  
-      • ElevenSeven  
-      • Square  
+      • Alphabetical Order (Prob A)   
+      • Divisibility (Prob C)  
+      • ElevenSeven (Prob D)  
+      • Square (Prob B)  
       
     Weekly :  
-      • Jellyfish Dance  
-      • Maximum  
-      • Randomverse  
-      • Sum  
-      • Take Three  
-      • Which Pawn  
+      • Jellyfish Dance (Prob B)  
+      • Maximum (Prob A)  
+      • Randomverse (Prob D)  
+      • Sum (Prob C)  
+      • Take Three (Prob F)  
+      • Which Pawn (Prob E)  
 
 - Week 6 :  
     Daily :  
-      • Array  
-      • Museum Heist  
-      • Night Game  
-      • Restoring The Array  
+      • Array (Prob A)  
+      • Museum Heist (Prob D)  
+      • Night Game (Prob B)  
+      • Restoring The Array (Prob C)  
       
     Weekly :  
-      • 2nus Internship  
-      • Another Classic Problem  
-      • Are They Equal  
-      • Blurred Sequence  
-      • Clever Math  
-      • Game Tournaments  
-      • Greetings  
-      • Non-Overlapping Schedule  
-      • Stairs Jumping  
-      • Triangle  
+      • 2nus Internship (Prob F)  
+      • Another Classic Problem (Prob J)  
+      • Are They Equal (Prob C)  
+      • Blurred Sequence (Prob H)  
+      • Clever Math (Prob E)  
+      • Game Tournaments (Prob B)  
+      • Greetings (Prob A)  
+      • Non-Overlapping Schedule (Prob I)  
+      • Stairs Jumping (Prob G)  
+      • Triangle (Prob D)  
 
 - Week 7 (Quiz Before UTS) :  
-      • Dragon Slaying  
-      • L R Even Odd  
-      • Ordinal Numbers  
-      • Waves and Verticality  
-      • Zero Based  
+      • Dragon Slaying (Prob C)  
+      • L R Even Odd (Prob E)  
+      • Ordinal Numbers (Prob D)  
+      • Waves and Verticality (Prob B)  
+      • Zero Based (Prob A)  
 
 - Week 8 :  
     Daily :  
-      • GGCD  
-      • Jojo's Equation  
-      • JoQuence  
-      • Snowflakes  
+      • GGCD (Prob B)  
+      • Jojo's Equation (Prob C)  
+      • JoQuence (Prob A)  
+      • Snowflakes (Prob D)  
       
     Weekly :  
-      • Ackermann Function  
-      • Digits Permutation  
-      • Lili's Series  
-      • Limited Infinite Set  
-      • Print  
-      • String in Subsequents  
+      • Ackermann Function (Prob A)  
+      • Digits Permutation (Prob E)  
+      • Lili's Series (Prob B)  
+      • Limited Infinite Set (Prob D)  
+      • Print (Prob C)  
+      • String in Subsequents (Prob F)  
 
 - Week 9 :  
     Daily :  
-      • Counting Factors  
-      • Epic Game  
-      • Fibo String  
-      • Sum Difference  
+      • Counting Factors (Prob D)  
+      • Epic Game (Prob B)  
+      • Fibo String (Prob A)  
+      • Sum Difference (Prob C)  
       
     Weekly :  
-      • Desperate Horse  
-      • Evening Walk  
-      • Happy Audiences  
-      • Not Fibonacci  
-      • Tascal's Priangle  
-      • Team Trees  
+      • Desperate Horse (Prob C)  
+      • Evening Walk (Prob D)  
+      • Happy Audiences (Prob E)  
+      • Not Fibonacci (Prob B)  
+      • Tascal's Priangle (Prob F)  
+      • Team Trees (Prob A)  
       
 - Week 10 :  
     Daily :  
-      • College Student  
-      • School Database  
-      • Student Data  
-      • Student Database  
+      • College Student (Prob A)  
+      • School Database (Prob D)  
+      • Student Data (Prob B)  
+      • Student Database (Prob C)  
       
     Weekly :  
-      • Bookshelf  
-      • Data Hacking  
-      • Duplicate Friends  
-      • Lili Company 1  
-      • Student Data  
-      • Teaching Assistant  
+      • Bookshelf (Prob F)  
+      • Data Hacking (Prob E)  
+      • Duplicate Friends (Prob B)  
+      • Lili Company 1 (Prob C)  
+      • Student Data (Prob A)  
+      • Teaching Assistant (Prob D)  
       
 - Week 11 :  
     Daily :  
-      • A Plus B  
-      • Corrupted CSV  
-      • Party  
-      • Planting Tree  
+      • A Plus B (Prob A)  
+      • Corrupted CSV (Prob D)  
+      • Party (Prob C)  
+      • Planting Tree (Prob B)  
       
     Weekly :  
-      • Alphabet Converter  
-      • Bad Prank  
-      • File Compression  
-      • File  
-      • Ice  
-      • Password  
+      • Alphabet Converter (Prob B)  
+      • Bad Prank (Prob A)  
+      • File Compression (Prob E)  
+      • File (Prob D)  
+      • Ice (Prob C)  
+      • Password (Prob F)  
 
 - Week 12 :  
     Daily :  
-      • Lili and Deadlines  
-      • Scoreboard  
-      • Temperature  
-      • Welcome to Your Tape  
+      • Lili and Deadlines (Prob B)  
+      • Scoreboard (Prob D)  
+      • Temperature (Prob A)  
+      • Welcome to Your Tape (Prob C)  
       
     Weekly :  
-      • I Love Statistic!  
-      • Number Conversion  
-      • Prittt..Prittt  
-      • Sorting  
-      • Top Viewer  
-      • Two Vectors  
+      • I Love Statistic! (Prob C)  
+      • Number Conversion (Prob E)  
+      • Prittt..Prittt (Prob D)  
+      • Sorting (Prob A)  
+      • Top Viewer (Prob B)  
+      • Two Vectors (Prob F)  
 
 - Week 13 :  
-      • Binary Search  
-      • Magic Potion  
-      • Max Number  
-      • Plant Sorting  
-      • Prime Triangle  
-      • Searching  
+      • Binary Search (Prob D)  
+      • Magic Potion (Prob E)  
+      • Max Number (Prob B)  
+      • Plant Sorting (Prob A)  
+      • Prime Triangle (Prob F)  
+      • Searching (Prob C)  
       
 - UTS :  
-      • Sofea's Homestay  
-      • Second Swap  
-      • Mancing Mania  
-      • Red Black Ant  
+      • Mancing Mania (Prob C)  
+      • Red Black Ant (Prob D)  
+      • Second Swap (Prob B)  
+      • Sofea's Homestay (Prob A)  
  
 - Quiz Before Exam :  
-      • Final Recursion  
-      • Sorting Lowercase  
-      • Train_Star  
-      • Wood  
-      • You Must Be This Tall To Ride  
+      • Final Recursion (Prob A)  
+      • Sorting Lowercase (Prob D)  
+      • Train_Star (Prob B)  
+      • Wood (Prob E)  
+      • You Must Be This Tall To Ride (Prob C)  
 
 - Latihan UAS :  
-      • Ancient Fractal  
-      • Bubble Shuffle  
-      • Company Dinner  
-      • Divisor Sort  
-      • Domain Filtering  
-      • Extreme Fizz Buzz  
-      • Find the Word  
-      • Jojo and Trains  
-      • Mid-Year Gifts  
-      • Party Beverages  
-      • The Famous Gauss  
-      • World of Lovecraft  
+      • Ancient Fractal (Prob I)  
+      • Bubble Shuffle (Prob H)  
+      • Company Dinner (Prob E)  
+      • Divisor Sort (Prob G)  
+      • Domain Filtering (Prob C)  
+      • Extreme Fizz Buzz (Prob K)  
+      • Find the Word (Prob D)  
+      • Jojo and Trains (Prob A)  
+      • Mid-Year Gifts (Prob B)  
+      • Party Beverages (Prob F)  
+      • The Famous Gauss (Prob L)  
+      • World of Lovecraft (Prob J)  
